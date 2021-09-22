@@ -12,10 +12,6 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "engines": {
-    "node": "10.0.0",
-    "npm": "6.0.0"
-  },
   "scripts": {
     "dev": "react-scripts start",
     "start": "serve -s build",
@@ -38,5 +34,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "engines": {
+    "node": "12.16.1",
+    "npm": "7.21.1"
+  },
 }
