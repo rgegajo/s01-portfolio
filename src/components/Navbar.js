@@ -6,7 +6,7 @@ import Nav from 'react-bootstrap/Nav'
 export default function AppNavbar() {
     return (
         <Navbar bg="light" expand="lg">
-        <Navbar.Brand href="#home">CHENG</Navbar.Brand>
+        <Navbar.Brand href="#home">CHENG DYosa</Navbar.Brand>
             <Nav className="mr-auto">
                 <Nav.Link href="#home">Home</Nav.Link>
                 <Nav.Link href="#link">Link</Nav.Link>
